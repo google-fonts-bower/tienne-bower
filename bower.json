@@ -1,0 +1,17 @@
+{
+    "name": "tienne-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/tienne-bower.git"
+    },
+    "description": "Tienne font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
